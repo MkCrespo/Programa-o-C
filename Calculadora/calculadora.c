@@ -4,10 +4,10 @@ int main() {
     int num1, num2, soma;
  
     // Lendo dois números do usuário
-    printf("Digite o primeiro número: ");
+    printf("Digite o primeiro numero: ");
     scanf("%d", &num1);
  
-    printf("Digite o segundo número: ");
+    printf("Digite o segundo numero: ");
     scanf("%d", &num2);
  
     // Calculando a soma dos dois números
@@ -18,4 +18,5 @@ int main() {
     scanf("%d", &soma);
  
     return 0;
+
 }
